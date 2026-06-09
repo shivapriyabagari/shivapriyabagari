@@ -1,4 +1,4 @@
-👋 Hello! I'm a developer focused on creating efficient and scalable solutions.
+👋 Hello! I'm Shiva Priya focused on creating efficient and scalable solutions.
 
 💡 Skills:
 - Programming: Java / Python / JavaScript
