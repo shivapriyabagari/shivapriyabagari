@@ -1,16 +1,13 @@
-## Hi there 👋
+👋 Hello! I'm a developer focused on creating efficient and scalable solutions.
 
-<!--
-**shivapriyabagari/shivapriyabagari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 Skills:
+- Programming: Java / Python / JavaScript
+- Web: HTML, CSS, React
+- Tools: Git, GitHub, VS Code
 
-Here are some ideas to get you started:
+🚀 What I do:
+- Build web applications
+- Work on real-world problem solving
+- Continuously improve my coding skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Let's connect and collaborate!
