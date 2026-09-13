@@ -10,7 +10,8 @@ I am a passionate developer focused on designing and building efficient, scalabl
 
 - **Programming Languages:** Java, Python, JavaScript  
 - **Web Technologies:** HTML, CSS, React  
-- **Tools & Platforms:** Git, GitHub, VS Code  
+- **Tools & Platforms:** Git, GitHub, VS Code
+- **AI/ML:** TensorFlow, APIs, Machine Learning Fundamentals,NLP
 
 ---
 
